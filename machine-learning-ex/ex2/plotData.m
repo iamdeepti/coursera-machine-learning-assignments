@@ -13,11 +13,13 @@ figure; hold on;
 %
 
 
-
-
-
-
-
+neg = find(y==0);
+pos = find(y==1);
+plot(X(neg,1),X(neg,2),"rx");
+plot(X(pos,1),X(pos,2),"oy","MarkerFaceColor",'y','MarkerSize',7);
+xlabel("Exam 1 scores");
+ylabel("Exam 2 scores");
+legend("not admitted","admitted");
 
 
 % =========================================================================
