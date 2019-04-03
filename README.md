@@ -1,5 +1,5 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
-
+[![HitCount](http://hits.dwyl.io/iamdeepti/coursera-ml-assignments.svg)](http://hits.dwyl.io/iamdeepti/coursera-ml-assignments)
 
 ![](ml-coursera-python-assignments-master/machinelearning.jpg)
 
